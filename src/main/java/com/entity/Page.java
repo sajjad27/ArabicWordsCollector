@@ -1,4 +1,4 @@
-package com.page;
+package com.entity;
 
 import org.hibernate.annotations.GenericGenerator;
 import org.hibernate.annotations.Parameter;

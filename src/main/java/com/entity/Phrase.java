@@ -1,6 +1,4 @@
-package com.phrase;
-
-import com.page.Page;
+package com.entity;
 
 import javax.persistence.*;
 import java.math.BigDecimal;

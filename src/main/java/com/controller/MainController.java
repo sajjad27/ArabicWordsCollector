@@ -1,12 +1,12 @@
 package com.controller;
 
-import com.crawler.BasicWebCrawler;
-import com.page.Page;
-import com.page.PageFacade;
-import com.phrase.Phrase;
-import com.phrase.PhraseFacade;
-import com.word.WordFacade;
-import com.word.WordService;
+import com.service.crawler.BasicWebCrawler;
+import com.entity.Page;
+import com.repository.facade.PageFacade;
+import com.entity.Phrase;
+import com.repository.facade.PhraseFacade;
+import com.repository.facade.WordFacade;
+import com.service.entityService.WordService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Controller;
@@ -21,7 +21,7 @@ public class MainController {
     @Autowired
     WordFacade wordFacade;
     @Autowired
-    com.phrase.PhraseFacade phraseFacade;
+    PhraseFacade phraseFacade;
     @Autowired
     PhraseFacade phraseTestFacade;
     WordService wordService = new WordService();

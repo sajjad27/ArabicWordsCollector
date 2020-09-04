@@ -1,5 +1,6 @@
-package com.word;
+package com.repository.repositories;
 
+import com.entity.Word;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

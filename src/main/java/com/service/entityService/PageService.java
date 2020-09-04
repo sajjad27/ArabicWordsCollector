@@ -1,4 +1,4 @@
-package com.page;
+package com.service.entityService;
 
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;

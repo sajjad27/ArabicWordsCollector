@@ -1,7 +1,8 @@
-package com.word;
+package com.service.entityService;
 
-import com.page.Page;
-import com.phrase.Phrase;
+import com.entity.Page;
+import com.entity.Phrase;
+import com.entity.Word;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;

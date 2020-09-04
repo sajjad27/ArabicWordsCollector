@@ -1,5 +1,6 @@
-package com.phrase;
+package com.repository.repositories;
 
+import com.entity.Phrase;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

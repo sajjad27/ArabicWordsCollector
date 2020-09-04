@@ -1,6 +1,6 @@
-package com.logging;
+package com.service.logging;
 
-import com.language.Messages;
+import com.service.language.Messages;
 
 public class Log {
     public static void LogDuplicatedUrl(String url)

@@ -1,4 +1,4 @@
-package com.word;
+package com.entity;
 
 public class Letters {
     public enum letters {

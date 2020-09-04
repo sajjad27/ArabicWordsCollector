@@ -1,9 +1,9 @@
-package com.crawler;
+package com.service.crawler;
 
-import com.page.Page;
-import com.page.PageFacade;
-import com.phrase.Phrase;
-import com.word.WordService;
+import com.entity.Page;
+import com.repository.facade.PageFacade;
+import com.entity.Phrase;
+import com.service.entityService.WordService;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.springframework.beans.factory.annotation.Autowired;

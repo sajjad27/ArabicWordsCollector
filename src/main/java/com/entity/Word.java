@@ -1,4 +1,4 @@
-package com.word;
+package com.entity;
 
 import javax.persistence.*;
 import java.math.BigDecimal;
