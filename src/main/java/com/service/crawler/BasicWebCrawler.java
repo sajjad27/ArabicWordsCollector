@@ -4,6 +4,8 @@ import com.entity.Page;
 import com.entity.pojo.PagePhraseWrapper;
 import com.repository.facade.PageFacade;
 import com.service.entityService.WordService;
+import com.service.language.Messages;
+import com.service.logging.Log;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -24,6 +26,7 @@ public class BasicWebCrawler {
 
 
     public PagePhraseWrapper getAllPagesAndAllArabicPhrasesFromThisPage(Page page) {
+        Log.logFine(Messages.GET_ALL_PAGES_AND_ALL_ARABIC_PHRASES_FROM_THIS_PAGE.replace("{?}",page.getUrl()));
         Document document;
         WordService wordService = new WordService();
         PagePhraseWrapper pagePhraseWrapper = new PagePhraseWrapper();

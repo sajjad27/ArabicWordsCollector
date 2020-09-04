@@ -32,7 +32,9 @@ public class MainController {
         for (Page printPage : pagePhraseWrappers.getPages()) {
             System.out.println(printPage.getUrl());
         }
+
     }
+
 
     public void saveOnePage(int i) {
 //        pageFacade.deleteAll();
