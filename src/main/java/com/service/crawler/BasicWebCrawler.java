@@ -1,14 +1,17 @@
 package com.service.crawler;
 
 import com.entity.Page;
+import com.entity.pojo.PagePhraseWrapper;
 import com.repository.facade.PageFacade;
-import com.entity.Phrase;
 import com.service.entityService.WordService;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 
 public class BasicWebCrawler {
@@ -20,14 +23,35 @@ public class BasicWebCrawler {
     }
 
 
-    public List<Phrase> getAllArabicPhrasesFromThisUrl(Page page) {
-        Document document = null;
+    public PagePhraseWrapper getAllPagesAndAllArabicPhrasesFromThisPage(Page page) {
+        Document document;
         WordService wordService = new WordService();
+        PagePhraseWrapper pagePhraseWrapper = new PagePhraseWrapper();
         try {
             if (page != null) {
                 document = Jsoup.connect(page.getUrl()).get();
-                List<Phrase> phrases = wordService.getListOfPhrasesFromElements(document, page);
-                return phrases;
+                pagePhraseWrapper.setPhrases(wordService.getListOfPhrasesFromElements(document, page));
+                pagePhraseWrapper.setPages(getAllPagesFromThisPage(page));
+                return pagePhraseWrapper;
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
+
+    public List<Page> getAllPagesFromThisPage(Page page) {
+        try {
+            if (page != null) {
+                List<Page> pages = new ArrayList<>();
+                Document document = Jsoup.connect(page.getUrl()).get();
+                Elements elements = document.select("a[href]");
+                String url;
+                for (Element element : elements) {
+                    url = element.attr("abs:href");
+                    pages.add(new Page(url, false));
+                }
+                return pages;
             }
         } catch (IOException e) {
             e.printStackTrace();

@@ -1,6 +1,7 @@
 package com.repository.facade;
 
 import com.entity.Phrase;
+import com.repository.repositories.PhraseRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

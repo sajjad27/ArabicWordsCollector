@@ -2,7 +2,6 @@ package com.repository.facade;
 
 import com.entity.Page;
 import com.repository.repositories.PageRepository;
-import com.repository.repositories.PageRepositoryImpl;
 import com.service.logging.Log;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataIntegrityViolationException;
@@ -21,8 +20,6 @@ public class PageFacade {
 
     @Autowired
     private PageRepository pageRepository;
-    @Autowired
-    private PageRepositoryImpl pageRepositoryImpl;
 
     public void save(Page page) {
 
