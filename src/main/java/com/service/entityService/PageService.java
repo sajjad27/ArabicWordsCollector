@@ -3,9 +3,6 @@ package com.service.entityService;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -26,25 +23,5 @@ public class PageService {
         return words;
     }
 
-    public void Save(String filePath, List<String> words) {
-        try {
-            File file = new File(filePath);
-            if (file.createNewFile()) {
-                System.out.println("File created: " + file.getName());
-            } else {
-                FileWriter fileWriter = new FileWriter(filePath);
-                for(String word : words) {
-                    fileWriter.append(word + " ");
-                    System.out.println(word);
 
-                }
-                fileWriter.flush();
-                fileWriter.close();
-            }
-        } catch (IOException e) {
-            System.out.println("An error occurred.");
-            e.printStackTrace();
-        }
-
-    }
 }

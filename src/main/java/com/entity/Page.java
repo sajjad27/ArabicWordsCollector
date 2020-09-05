@@ -2,6 +2,7 @@ package com.entity;
 
 import org.hibernate.annotations.GenericGenerator;
 import org.hibernate.annotations.Parameter;
+import org.springframework.transaction.annotation.Transactional;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -9,6 +10,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 @Entity
+@Transactional
 public class Page {
 
     @Id
@@ -36,6 +38,7 @@ public class Page {
         this.url = url;
         this.isPageConsumed = isPageConsumed;
     }
+
 
     public long getId() {
         return id;

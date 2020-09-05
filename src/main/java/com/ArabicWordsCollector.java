@@ -19,10 +19,10 @@ public class ArabicWordsCollector implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-//        controller.CollectArabicWordsFromTheInternetAndSaveThenInTheDB();
-        for (int i = 0; i < 5; i++) {
-            controller.saveOnePage(i);
-        }
+        controller.CollectArabicWordsFromTheInternetAndSaveThenInTheDB();
+//        for (int i = 0; i < 5; i++) {
+//            controller.saveOnePage(i);
+//        }
 //        controller.findFirstUnconsumedPage();
     }
 

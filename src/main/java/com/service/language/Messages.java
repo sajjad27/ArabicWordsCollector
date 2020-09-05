@@ -6,5 +6,8 @@ public class Messages {
     public static final String Find_NUMBER_OF_UNCONSUMED_PAGES = "Finding number of unconsumed pages";
 
     public static String GET_ALL_PAGES_AND_ALL_ARABIC_PHRASES_FROM_THIS_PAGE = "Start fetching All Pages And All Arabic Phrases From This Page: {?}";
+
+    public static String START_SAVING_ALL_PAGES = "Start saving all pages";
+    public static String START_SAVING_ALL_PHRASES = "Start saving all phrases";
 }
 

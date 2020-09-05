@@ -1,0 +1,1 @@
+See which is better, one to many or many to one? And consider saving and fetching from db

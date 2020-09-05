@@ -1,9 +1,9 @@
 package com.controller;
 
 import com.entity.Page;
-import com.entity.Phrase;
 import com.entity.pojo.PagePhraseWrapper;
 import com.repository.facade.PageFacade;
+import com.repository.facade.PhraseFacade;
 import com.service.crawler.BasicWebCrawler;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
@@ -14,6 +14,8 @@ import org.springframework.stereotype.Controller;
 public class MainController {
     @Autowired
     PageFacade pageFacade;
+    @Autowired
+    PhraseFacade phraseFacade;
     private String url = "https://www.aldiwan.net/";
 
     PagePhraseWrapper pagePhraseWrappers = new PagePhraseWrapper();
@@ -25,13 +27,26 @@ public class MainController {
 
         BasicWebCrawler crawler = new BasicWebCrawler();
         Page page = pageFacade.findFirstUnconsumedPage();
-        pagePhraseWrappers = crawler.getAllPagesAndAllArabicPhrasesFromThisPage(page);
-        for (Phrase phrase : pagePhraseWrappers.getPhrases()) {
-            System.out.println(phrase.getRawPhrase());
+
+        while(!page.isPageConsumed()) {
+            pagePhraseWrappers = crawler.getAllPagesAndAllArabicPhrasesFromThisPage(page);
+
+            // to update isConsumed
+            page.setPageConsumed(true);
+            pageFacade.update(page);
+
+            pageFacade.saveAll(pagePhraseWrappers.getPages());
+            phraseFacade.saveAll(pagePhraseWrappers.getPhrases());
+            page = pageFacade.findFirstUnconsumedPage();
         }
-        for (Page printPage : pagePhraseWrappers.getPages()) {
-            System.out.println(printPage.getUrl());
-        }
+
+
+//        for (Phrase phrase : pagePhraseWrappers.getPhrases()) {
+//            System.out.println(phrase.getRawPhrase());
+//        }
+//        for (Page printPage : pagePhraseWrappers.getPages()) {
+//            System.out.println(printPage.getUrl());
+//        }
 
     }
 

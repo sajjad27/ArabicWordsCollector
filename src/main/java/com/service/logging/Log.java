@@ -20,13 +20,13 @@ public class Log {
     private static String callerClassFileName;
 
     public static void logWarning(String message) {
-        callerClassFileName = getCallerClassFileName();
-        basicLog(message, Level.WARNING);
+//        callerClassFileName = getCallerClassFileName();
+//        basicLog(message, Level.WARNING);
     }
 
     public static void logFine(String message) {
-        callerClassFileName = getCallerClassFileName();
-        basicLog(message, Level.FINE);
+//        callerClassFileName = getCallerClassFileName();
+//        basicLog(message, Level.FINE);
     }
 
     private static void basicLog(String message, Level level) {

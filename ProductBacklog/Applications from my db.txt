@@ -1,0 +1,18 @@
+Sentence recognition 
+Autocorrection 
+
+Give him the sentence and recognize what is the name, the noun and the verbs
+
+Make like “natural language” in google
+
+that has KeyId, key
+
+Are the files deleted from tmp folder after it comes from API
+
+اعراب
+
+Change list into single link list 
+
+
+
+

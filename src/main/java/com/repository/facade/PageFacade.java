@@ -7,6 +7,7 @@ import com.service.logging.Log;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
@@ -22,9 +23,10 @@ public class PageFacade {
     @Autowired
     private PageRepository pageRepository;
 
+    @Transactional
     public void save(Page page) {
-
         try {
+            Log.logFine(Messages.START_SAVING_ALL_PAGES);
             pageRepository.save(page);
         } catch (DataIntegrityViolationException e) {
             Log.logWarning(Messages.DUPLICATED_URL_MSG.replace("{?}", page.getUrl()));
@@ -37,6 +39,9 @@ public class PageFacade {
         pageRepository.deleteAll();
     }
 
+    public void update(Page page){
+        pageRepository.save(page);
+    }
 
     public Page findFirstUnconsumedPage(){
         Log.logFine(Messages.Find_FIRST_UNCONSUMED_PAGE);
@@ -47,5 +52,12 @@ public class PageFacade {
         Log.logFine(Messages.Find_NUMBER_OF_UNCONSUMED_PAGES);
         return entityManager.createQuery("SELECT p FROM Page p where p.isPageConsumed = '0'",
                 Page.class).setMaxResults(limit).getResultList();
+    }
+
+    public void saveAll(List<Page> pages){
+        for(Page page : pages)
+        {
+            save(page);
+        }
     }
 }
