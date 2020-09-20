@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1a5c97f-a825-40d3-9c1b-106f6df6a0f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArabicWordsSelector.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductBacklog/About performance.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductBacklog/Applications from my db.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductBacklog/Ideas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductBacklog/Questions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductBacklog/issues to be fix.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_04-09-2020.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_04-09-2020.txt.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_04-09-2020.txt.1.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_04-09-2020.txt.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_04-09-2020.txt.2.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_04-09-2020.txt.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_04-09-2020.txt.3.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_04-09-2020.txt.4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_04-09-2020.txt.4.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_04-09-2020.txt.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.1.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.10.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.100" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.100.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.11.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.12.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.13.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.14.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.15.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.16.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.17.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.18.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.19.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.2.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.20.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.21.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.22.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.23.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.24.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.25.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.26.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.27.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.28.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.29.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.3.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.30.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.31.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.32.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.33.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.34.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.35" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.35.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.36.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.37.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.38.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.39.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.4.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.40.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.41.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.42.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.43.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.44.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.45.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.46.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.47.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.48.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.49.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.5.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.50" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.50.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.51.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.52" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.52.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.53" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.53.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.54.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.55.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.56.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.57" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.57.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.58.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.59.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.6.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.60.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.61" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.61.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.62.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.63" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.63.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.64.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.65.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.66" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.66.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.67" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.67.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.68" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.68.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.69" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.69.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.7.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.70.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.71" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.71.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.72" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.72.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.73" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.73.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.74" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.74.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.75" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.75.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.76" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.76.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.77.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.78" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.78.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.79" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.79.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.8.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.80.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.81" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.81.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.82" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.82.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.83" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.83.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.84" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.84.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.85" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.85.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.86.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.87" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.87.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.88" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.88.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.89.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.9.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.90" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.90.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.91" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.91.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.92.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.93" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.93.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.94" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.94.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.95" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.95.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.96" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.96.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.97" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.97.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.98" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.98.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.99" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.99.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailyLogs/Daily Logs_05-09-2020.txt.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ArabicWordsCollector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/controller/MainController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/entity/Letters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/entity/Page.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/entity/Phrase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/entity/Word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/entity/pojo/PagePhraseWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/repository/facade/PageFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/repository/facade/PhraseFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/repository/facade/WordFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/repository/repositories/PageRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/repository/repositories/PhraseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/repository/repositories/WordRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/crawler/BasicWebCrawler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/crawler/WebCrawlerWithDepth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/entityService/PageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/entityService/PhraseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/entityService/WordService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/language/Messages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/service/logging/Log.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ArabicWordsCollector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/controller/MainController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/Letters$letters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/Letters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/Phrase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/Word.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/entity/pojo/PagePhraseWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/repository/facade/PageFacade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/repository/facade/PhraseFacade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/repository/facade/WordFacade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/repository/repositories/PageRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/repository/repositories/PhraseRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/repository/repositories/WordRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/crawler/BasicWebCrawler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/crawler/WebCrawlerWithDepth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/entityService/PageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/entityService/PhraseService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/entityService/WordService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/language/Messages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/service/logging/Log.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\sajjad\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gN1671ZA0KSgzGZPczPDQ14mnl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/repository" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sajjad\IdeaProjects\ArabicWordsSelector\src\main\java\com\repository" />
+      <recent name="C:\Users\sajjad\IdeaProjects\ArabicWordsSelector\src\main\java\com\phrase" />
+      <recent name="C:\Users\sajjad\IdeaProjects\ArabicWordsSelector\src\main\java\com" />
+      <recent name="C:\Users\sajjad\IdeaProjects\ArabicWordsSelector\src\main\java\com\page" />
+      <recent name="C:\Users\sajjad\IdeaProjects\ArabicWordsSelector\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ArabicWordsCollector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ArabicWordsCollector" />
+      <module name="ArabicWordsSelector" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArabicWordsCollector" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1a5c97f-a825-40d3-9c1b-106f6df6a0f5" name="Default Changelist" comment="" />
+      <created>1597940059170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597940059170</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="C:\Program Files\Git\git-bash.exe" />
+    <option name="startingDirectory" value="C:\Program Files\Git\git-bash.exe" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1598357845971">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1598357845971" />
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser" timestamp="1599307583167">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1599307583167" />
+    <state x="461" y="32" width="629" height="477" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1599243605192">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="461" y="32" width="629" height="477" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1280.680@0.0.1280.680" timestamp="1599243605192" />
+    <state x="261" y="265" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1599205467693">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="261" y="265" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1599205467693" />
+    <state x="424" y="210" width="432" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598247945402">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="424" y="210" width="432" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1598247945402" />
+    <state x="424" y="178" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1599295112019">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="424" y="178" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1280.680@0.0.1280.680" timestamp="1599295112019" />
+    <state x="358" y="148" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1597944011173">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="358" y="148" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1280.680@0.0.1280.680" timestamp="1597944011173" />
+    <state x="266" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599125751456">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="266" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1599125751456" />
+    <state width="802" height="438" key="DebuggerActiveHint" timestamp="1599295106591">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="802" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1599295106591" />
+    <state x="696" y="241" key="FileChooserDialogImpl" timestamp="1599206838011">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="696" y="241" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599206838011" />
+    <state width="1237" height="206" key="GridCell.Tab.0.bottom" timestamp="1599370137400">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599370137400" />
+    <state width="1237" height="206" key="GridCell.Tab.0.center" timestamp="1599370137400">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599370137400" />
+    <state width="1237" height="206" key="GridCell.Tab.0.left" timestamp="1599370137400">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599370137400" />
+    <state width="1237" height="206" key="GridCell.Tab.0.right" timestamp="1599370137400">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="206" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599370137400" />
+    <state width="1237" height="271" key="GridCell.Tab.1.bottom" timestamp="1599369960311">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="271" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599369960311" />
+    <state width="1237" height="271" key="GridCell.Tab.1.center" timestamp="1599369960310">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="271" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1599369960310" />
+    <state width="1237" height="271" key="GridCell.Tab.1.left" timestamp="1599369960310">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="271" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1599369960310" />
+    <state width="1237" height="271" key="GridCell.Tab.1.right" timestamp="1599369960310">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="271" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1599369960310" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1598361994820">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1598361994820" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1599207132145">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599207132145" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1598938133522">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1598938133522" />
+    <state x="452" y="119" key="chooseDestDirectoryDialog" timestamp="1597942420714">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="452" y="119" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1597942420714" />
+    <state x="209" y="52" width="863" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598932369112">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="209" y="52" width="863" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1598932369112" />
+    <state x="272" y="-5" width="724" height="680" key="find.popup" timestamp="1598937668245">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="272" y="-5" width="724" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1598937668245" />
+    <state x="91" y="2" key="new project wizard" timestamp="1598368938754">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="2" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1598368938754" />
+    <state x="342" y="98" key="refactoring.ChangeSignatureDialog" timestamp="1599244895138">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="342" y="98" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1599244895138" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1599052156787">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1599052156787" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1599244851796">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1599244851796" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/service/entityService/WordService.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.jsoup.nodes.TextNode" memberName="parentNode" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
