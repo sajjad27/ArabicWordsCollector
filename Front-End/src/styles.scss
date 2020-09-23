@@ -1,1 +1,19 @@
-/* You can add global styles to this file, and also import other style files */
+$primary : #5b79a1;
+$secondary : #f5a6b0;
+$light : #e7e5fa;
+
+
+html,body{
+  height: 100%;
+}
+button {
+    cursor: pointer;
+}
+
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "light":      $light,
+);
+
+@import "node_modules/bootstrap/scss/bootstrap";
