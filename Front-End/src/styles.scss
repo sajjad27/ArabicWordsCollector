@@ -1,6 +1,9 @@
 $primary : #5b79a1;
 $secondary : #f5a6b0;
 $light : #e7e5fa;
+$light-gray: #f3f3f3;
+// #ced4da !default;
+// $gray-500: #adb5bd !default;
 
 
 html,body{
@@ -14,6 +17,7 @@ $theme-colors: (
   "primary":    $primary,
   "secondary":  $secondary,
   "light":      $light,
+  "light-gray": $light-gray,
 );
 
 @import "node_modules/bootstrap/scss/bootstrap";

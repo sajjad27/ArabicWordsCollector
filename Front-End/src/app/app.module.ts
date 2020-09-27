@@ -11,6 +11,7 @@ import { AuthGuard } from './authService/auth-guard.service';
 import { AuthService } from './authService/Auth.service';
 import { AuthenticatedToRegistrationGuard } from './authService/authenticated-to-registration-guard.service';
 import { RegistrationComponent } from './registeration/registration.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { RegistrationComponent } from './registeration/registration.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule
   ],
   providers: [AuthService, AuthGuard, AuthenticatedToRegistrationGuard],
   bootstrap: [AppComponent]

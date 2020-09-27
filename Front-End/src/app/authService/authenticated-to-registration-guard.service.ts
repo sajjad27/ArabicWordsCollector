@@ -20,10 +20,17 @@ export class AuthenticatedToRegistrationGuard implements CanActivate, CanActivat
         return this.authService.isAuthenticated()
             .then(
                 (authenticated: boolean) => {
-                    console.log('fuck you');
-                    if (!authenticated) {
+                    
+                    const requestedUrl = state.url;
+                    const isRequestLoginOrSignUp = requestedUrl.endsWith('login') || requestedUrl.endsWith('signup');
+
+                    if (!authenticated && isRequestLoginOrSignUp) {
                         return true;
-                    } else {
+                    } 
+                    else if (!authenticated && !isRequestLoginOrSignUp) {
+                        this.router.navigate(['/registration/login']);
+                    } 
+                    else {
                         this.router.navigate(['/']);
                     }
                 }

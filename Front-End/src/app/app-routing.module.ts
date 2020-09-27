@@ -16,12 +16,27 @@ const routes: Routes = [
     component: HomeComponent
   },
   {
-    path: 'login', component: LoginComponent, 
+    path: 'registration', component: RegistrationComponent ,
     canActivate: [AuthenticatedToRegistrationGuard],
+    // canActivateChild: [AuthenticatedToRegistrationGuard],
+    children:[
+      {
+          path: 'login', component: LoginComponent, 
+          // canActivate: [AuthenticatedToRegistrationGuard],
+        },
+        {
+          path: 'signup', component: SignUpComponent, 
+          // canActivate: [AuthenticatedToRegistrationGuard],
+        },
+    ]
   },
   {
-    path: 'signup', component: SignUpComponent, 
-    canActivate: [AuthenticatedToRegistrationGuard],
+    path: 'login', redirectTo: '/registration/login', 
+    // canActivate: [AuthenticatedToRegistrationGuard],
+  },
+  {
+    path: 'signup', redirectTo: '/registration/signup', 
+    // canActivate: [AuthenticatedToRegistrationGuard],
   },
   { path: 'home', component: HomeComponent },
   { path: '**', component: NotFoundComponent }
